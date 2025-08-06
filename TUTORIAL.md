@@ -89,6 +89,6 @@ Siempre es buena idea escribir mensajes claros en tus commits para mantener el h
 ¡Listo! Ahora tu carpeta está correctamente versionada y sincronizada con GitHub.
 
 Contacto
-Para dudas o ayuda, puedes contactarme en ferpaye@gmail.com.
+Para dudas o ayuda, puedes contactarme en ferpaye438@gmail.com.
 
 ---
